@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6FD77CA5-00D2-43D1-B32B-3F7C76EFB73C}|">
+  <MonoDevelop.Ide.ItemProperties.lab5 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Statistics.aspx.cs">
+    <Files>
+      <File FileName="Statistics.aspx" Line="49" Column="1" />
+      <File FileName="Statistics.aspx.cs" Line="12" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab5" expanded="True">
+            <Node name="lab5" expanded="True">
+              <Node name="Statistics.aspx" expanded="True">
+                <Node name="Statistics.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
